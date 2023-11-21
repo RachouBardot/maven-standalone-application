@@ -25,7 +25,7 @@ public class HelloWorldTest
      */
     public static Test suite()
     {
-        return new TestSuite( Jesusislord.class );
+        return new TestSuite( HelloWorldTest.class );
     }
 
     /**
